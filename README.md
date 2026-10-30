@@ -4,7 +4,8 @@
 
 ## Overview
 
-SpatialGRN is a computational workflow integrating single-nucleus multiome (snRNA-seq and snATAC-seq) and spatial transcriptomics data to characterize spatially resolved gene regulatory networks.
+spatialGRNs is a computational workflow that integrates single-nucleus multiome data (joint snRNA-seq and snATAC-seq) with single-cell-resolution spatial transcriptomics to characterize spatially resolved gene regulatory networks. It infers enhancer-driven GRNs (eGRNs) and maps their activity onto tissue coordinates. By combining spatial mapping, chromatin accessibility, and motif discovery, the workflow enables the study of regulatory programs in their native tissue context.
+
 
 ## Workflow
 
