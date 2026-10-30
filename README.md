@@ -48,6 +48,12 @@ See individual notebooks for implementation details and dependencies.
 
 See `00.Input_data_format.ipynb` for input data preparation.
 
+## Outputs
+
+- (i) imputed transcriptome-wide gene expression in spatial cells
+- (ii) enhancer-driven GRNs comprising eRegulons, their target genes and regulatory regions, and corresponding RAS
+- (iii) spatially resolved RAS maps for each regulon
+
 ## Citation
 
 Please cite the relevant software packages and associated publications when using this workflow.
